@@ -2,3 +2,13 @@
  color: white;
  background: black;
  }
+ header {
+ border-bottom: solid 2px rgb(241, 5, 56);
+ padding: 20px;
+ font-size: 32px;
+ color: rgb(222, 42, 228);
+
+ }
+section {
+background: rgb(106, 14, 204);
+}
