@@ -11,4 +11,10 @@
  }
 section {
 background: rgb(106, 14, 204);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
 }
+
+
